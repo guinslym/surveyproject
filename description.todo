@@ -1,7 +1,29 @@
 description of the project:
-
+ ☐ A Survey application like SurveyMonkey
+ ☐ A Questionnaire has many QuestionsTypes.
+ ☐ Each QuestionTypes has one Question.
+ ☐ if this Question is a Boolean QuestionType then
+   ☐ 1 Question 
+   ☐ only 2 Choices
+   ☐ only 1 Answer
+ ☐ if this Question is a TextResponse QuestionType then
+   ☐ 1 Question
+   ☐ 1 Answer has a TextField
+   ☐ 1 user create answer
+ ☐ if this Question is a MultiChoice QuestionType then
+   ☐ if it has only 1 Answer
+     ☐ 1 Question
+     ☐ 1 Answer Selected (Selections)
+   ☐ if it has many Answers
+     ☐ 1 Question
+     ☐ Many Answers Selected (Selections)
+ ☐ Difficulties 
+   ☐ Add pictures
+   ☐ Add sounds
+   ☐ Results (Charts)
 
 Models:
+ ☐ 
 
 
 todo:
